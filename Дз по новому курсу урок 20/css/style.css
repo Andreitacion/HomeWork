@@ -1,0 +1,23 @@
+.header{
+    background-color: rgb(245, 168, 14);
+    height: 60px;
+}
+
+.name {
+    font-size: 46px;
+    font-weight: 600;
+}
+ul{
+    margin-left: 30px;
+}
+.header__user-nav::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    display: block;
+    background: url("../images/icons/user-icon.svg") no-repeat;
+    width: 20px;
+    height: 20px;
+  }
