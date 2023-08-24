@@ -1,0 +1,32 @@
+.header{
+    background-color: black;
+    height: 120px;
+}
+.text {
+    color: aliceblue;
+    
+}
+mark {
+    background-color: black;
+    color: #de10f0;
+}
+.images {
+    margin-top: -15px;
+    
+}
+.main__content {
+    background-color: blueviolet;
+    width: 300px;
+    margin-top: -16px;
+}
+.main {
+}
+.main__content {
+}
+span{
+    background-color: rgb(97, 34, 157);
+    color: aliceblue;
+}
+.text2 {
+    color: black;
+}
