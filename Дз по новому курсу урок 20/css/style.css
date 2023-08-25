@@ -1,0 +1,61 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+ul{
+    margin-left: 30px;
+}
+img{
+    margin-bottom: 20px;
+}
+blockquote{
+    margin-bottom: 20px;
+}
+ul{
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: 500;
+}
+.wrapper{
+padding: 5px;
+}
+.header{
+    background-color: rgb(245, 168, 14);
+    height: 60px;
+}
+.heading {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.first__section--text {
+    margin-bottom: 20px;
+}
+.block__quote{
+    background-color: #dcb85e;
+    margin-bottom: 20px;
+}
+.block__quote-text{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.block__quote-avtor {
+}
+.footer {
+    background-color: #aa0af4;
+    height: 300px;
+}
+.word {
+    color: aliceblue;
+}
+.link{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.links {
+    display: flex;
+    flex-direction: column;
+}
